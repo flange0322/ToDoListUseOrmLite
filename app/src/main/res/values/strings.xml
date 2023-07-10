@@ -2,4 +2,5 @@
     <string name="app_name">My Application</string>
     <string name="title_name"> watch TV</string>
     <string name="work_name">to watch TV with my family at night.</string>
+    <string name="dialog_name">Please enter your title and work content: </string>
 </resources>
